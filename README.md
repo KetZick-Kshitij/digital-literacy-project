@@ -35,6 +35,8 @@ Deliverable: Completion of the beginner’s challenge on CodeChef and developmen
 
 Key Skill: Algorithmic logic and data collection.
 
+Google Forms Response Sheet : https://docs.google.com/spreadsheets/d/1MGXs3-l_vuuxQR09yvcoLNstaIhQcc36lW0bj9Kjnx8/edit?usp=sharing
+
 📁 task-4-communication/
 
 Focus: Digital Etiquette.
