@@ -56,7 +56,7 @@ Key Skill: Risk assessment and digital hygiene.
 Professional Links
 LinkedIn: www.linkedin.com/in/kshitij-s-34337427b
 
-GitHub Portfolio: [Link to this Repository or your Main Profile]
+GitHub Portfolio: https://github.com/KetZick-Kshitij/digital-literacy-project
 
 ResearchGate: https://www.researchgate.net/profile/Kshitij-Sinha-10?ev=hdr_xprf
 
