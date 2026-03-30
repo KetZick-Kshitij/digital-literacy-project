@@ -5,7 +5,7 @@ Registration Number: 25BAS10094
 Branch: B.Tech Aerospace Engineering
 University: VIT Bhopal University
 
-Role: Digital Ambassador & Team Vortex Member
+Role: Digital Ambassador
 
 Project Overview
 This digital repository comprises the complete project for the Digital Literacy Course: CSE0001. Throughout this project, I have sought to showcase my proficiency in modern digital tools, professional networking, collaborative programming, and cybersecurity awareness. The project comprises five unique modules in which I have developed my professional digital presence and educational materials that will enable me to assist my peers in safely and effectively navigating the digital landscape.
